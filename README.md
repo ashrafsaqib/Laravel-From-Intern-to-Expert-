@@ -3,11 +3,18 @@
 Whether you're a developer, project manager, or a curious code reviewer, this comprehensive checklist can be utilized to evaluate your Laravel projects before delivery, ensuring that the codebase is maintainable, standardized, and meets the best practices of the Laravel framework.
 
 ## Routes
-1. Not Using Inline Functions
-2. Using Namespaces
-3. Using Prefixes
-4. Using Grouping
-5. Using named routes in views
+1. ✗ Not Using Inline Functions ✗
+2. ✓ Using Namespaces
+3. ✓ Using Prefixes
+4. ✓ Using Grouping
+5. ✓ Using named routes in views
+6. ✓ Combine / Group 'use' Controller Statements
+7. ✓ Use Route :: resource and avoid ✗ lengthy routes files with separate functions ✗
+
+## Migrations
+1. ✗ No camelCase column Names ✗ 
+2. ✓ Use underscore pattern ✓
+3. ✓ Use forign keyword when tables are using foriegn keys ✓ 
 
 # Roadmap
 This project is not finished or released, its in progress 
