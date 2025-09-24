@@ -1,4 +1,6 @@
-# Laravel Common Mistakes & Best Practices
+# Laravel – From Intern to Expert
+
+## Laravel Common Mistakes & Best Practices with Bad & Good Examples
 
 Welcome to our collection of common mistakes and best practices for Laravel developers. Whether you're a new developer learning the framework or an experienced developer looking for a refresher, this repository aims to provide clear, concise examples of how to write better, more maintainable Laravel code.
 
